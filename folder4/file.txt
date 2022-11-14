@@ -1,0 +1,1 @@
+This is file from folder4 in Git WS.
